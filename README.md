@@ -2,4 +2,4 @@
 hello-world for GitHub
 yours
 "a bit about yourself..."
-<diferentes></diferentes>
+<strong>prueba con etiquetas html</strong>
